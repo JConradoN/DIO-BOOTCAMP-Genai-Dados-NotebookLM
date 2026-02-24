@@ -130,10 +130,15 @@ Investir: Fazer o dinheiro trabalhar para você através de juros recebidos.
 
 📅 Plano de Ação Prático (30 Dias)
 Dias 1-10: Registro rigoroso de cada centavo gasto.
+
 Dias 11-15: Revisão de faturas e cancelamento de assinaturas ociosas.
+
 Dias 16-20: Definição de metas SMART (específicas e alcançáveis).
+
 Dias 21-25: Automação (Pix agendado para "pagar-se primeiro").
+
 Dias 26-30: Revisão do progresso e ajuste para o mês seguinte.
+
 
 🔍 Análise de Precisão (Pensamento Crítico)
 Durante o desenvolvimento, utilizei o recurso de Citações do NotebookLM para validar as informações. Por exemplo, a definição de Cidadania Financeira e a estrutura da Reserva de Emergência foram diretamente ancoradas nos manuais do Banco Central, eliminando alucinações da IA e garantindo que o plano de ação fosse tecnicamente seguro.
